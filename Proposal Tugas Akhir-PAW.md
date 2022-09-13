@@ -32,5 +32,5 @@ Atribut|Tipe Data|Contoh
 notyet | notyet | notyet
 
 UX Warframe:
-![judul](https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/old-blog-uploads/mapping-out-a-user-flow-by-hand.jpg)
+![judul](https://twitter.com/ammarihsaan/status/1569679328262393857/photo/1)
 
