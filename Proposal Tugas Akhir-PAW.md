@@ -1,5 +1,5 @@
 
-                                         Proposal Tugas Akhir Semester 5 Mata Kuliah Praktikum Pengembangan Aplikasi Web
+                                Proposal Tugas Akhir Semester 5 Mata Kuliah Praktikum Pengembangan Aplikasi Web
 
 Title: 
 
