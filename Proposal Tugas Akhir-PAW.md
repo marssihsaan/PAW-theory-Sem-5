@@ -3,7 +3,7 @@
 
 Title: 
 
-Game Web Platform Flappy Bird Adventure 
+Game Web Platform Hopeless Bird Adventure 
 
 Permasalahan:
 - Pemilihan aplikasi hiburan atau permainan yang mengandalkan sistem pay to win
