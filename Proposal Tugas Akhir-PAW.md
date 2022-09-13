@@ -1,8 +1,9 @@
 
-Proposal Tugas Akhir Semester 5 Mata Kuliah Praktikum Pengembangan Aplikasi Web
+                                            Proposal Tugas Akhir Semester 5 Mata Kuliah Praktikum Pengembangan Aplikasi Web
 
-Title
-Game Web Platform Flappy Bird Adventure
+Title: 
+
+- Game Web Platform Flappy Bird Adventure -
 
 Permasalahan
 - Pemilihan aplikasi hiburan atau permainan yang mengandalkan sistem pay to win
