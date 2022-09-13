@@ -32,5 +32,5 @@ Atribut|Tipe Data|Contoh
 notyet | notyet | notyet
 
 UX Warframe:
-![judul](https://www.freepik.com/free-vector/illustration-scene-with-dry-land-hills_6486252.htm#query=flappy%20bird&position=0&from_view=search)
+![Index Home Page](https://www.freepik.com/free-vector/illustration-scene-with-dry-land-hills_6486252.htm#query=flappy%20bird&position=0&from_view=search "Index Home Page")
 
