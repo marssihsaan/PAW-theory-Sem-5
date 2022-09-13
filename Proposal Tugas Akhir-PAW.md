@@ -29,5 +29,5 @@ Use Case:
 Struktur Data:
 Atribut|Tipe Data|Contoh
 ---|---|---
-- | - | -
+nope | nope | nope
 
