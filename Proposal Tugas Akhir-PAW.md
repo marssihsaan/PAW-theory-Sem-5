@@ -32,5 +32,5 @@ Atribut|Tipe Data|Contoh
 notyet | notyet | notyet
 
 UX Warframe:
-![judul](https://twitter.com/ammarihsaan/status/1569679328262393857/photo/1)
+![Index Home Page](https://github.com/marssihsaan/PAW-theory-Sem-5/blob/main/image/6486252_37476.jpg "Index Home Page")
 
